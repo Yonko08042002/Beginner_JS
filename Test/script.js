@@ -11,8 +11,4 @@ for(let index=0; index < fruits.length ; index++ ){
     console.log(fruit)
 }
 
-for(let index=0; index < fruits.length ; index++ ){
-    console.log(index)
-    const fruit = fruits[index]
-    console.log(fruit)
-}
+
