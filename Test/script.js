@@ -11,4 +11,5 @@ for(let index=0; index < fruits.length ; index++ ){
     console.log(fruit)
 }
 
+alert("em của ngày hôm qua")
 
